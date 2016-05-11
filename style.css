@@ -1,0 +1,18 @@
+body {
+    background-color: white;
+}
+
+#client-local-video  {
+    display: none;
+}
+#client-remote-videos video {
+    display: none;
+}
+
+#guru-local-video  {
+    height: 150px;
+}
+#guru-remote-videos video {
+    height: 600px;
+}
+
