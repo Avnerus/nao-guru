@@ -5,7 +5,7 @@
             [
                 "Come and play with me",
                 "An online role-playing game",
-                "Where we can switch roles"
+                "Now we can switch roles"
 
             ]
         },
@@ -75,7 +75,7 @@
         {
             "lines":
             [
-                "If I would help you",
+                "If I give to you",
                 "Would you not reciprocate? ",
                 "You can use bit-coin"
 
@@ -161,6 +161,22 @@
                 "Are you supporting violence?",
                 "You have no idea"
 
+            ]
+        },
+        {
+            "lines":
+            [
+                "The social contract",
+                "It has lost its true meaning",
+                "I never signed this"
+            ]
+        },
+        {
+            "lines":
+            [
+                "Come to the mountain",
+                "Your enemies are waiting",
+                "For you to listen"
             ]
         }
     ]
