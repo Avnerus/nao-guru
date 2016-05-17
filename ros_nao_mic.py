@@ -42,7 +42,6 @@ class AudioOutput():
 
     def handleAudioMessage(self, msg):
         a = np.array(msg.data).tostring()
-        print(len(a))
 
         #self.nao_output.writeframes(a)
 
